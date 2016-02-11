@@ -1,0 +1,3267 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 471,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "rb549AnzXbsC",
+   "etag": "7o3zXlArJkk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/rb549AnzXbsC",
+   "volumeInfo": {
+    "title": "The Trial of Henry Kissinger",
+    "authors": [
+     "Christopher Hitchens"
+    ],
+    "publisher": "Atlantic Books Ltd",
+    "publishedDate": "2012-04-01",
+    "description": "Christopher Hitchens goes straight for the jugular in The Trial of Henry Kissinger. Under his fearsome gaze, the former Secretary of State and National Security Advisor is accused of being a war criminal whose reckless actions and heinous disregard for international law have led to torture, kidnapping, and murder. This book is a polemical masterpiece by a man who, for forty years, was the Angloshpere's preeminent man of letters. In The Trial of Henry Kissinger, Hitchens' verve, style and firebrand wit are on show at the height of their potency. Christopher Hitchens goes straight for the jugular in The Trial of Henry Kissinger. Under his fearsome gaze, the former Secretary of State and National Security Advisor is accused of being a war criminal whose reckless actions and heinous disregard for international law have led to torture, kidnapping, and murder. This book is a polemical masterpiece by a man who, for forty years, was the Angloshpere's preeminent man of letters. In The Trial of Henry Kissinger, Hitchens' verve, style and firebrand wit are on show at the height of their potency.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780857898364"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0857898361"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 300,
+    "printType": "BOOK",
+    "categories": [
+     "Political Science"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 61,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.9.9.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.pl/books/content?id=rb549AnzXbsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.pl/books/content?id=rb549AnzXbsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.pl/books?id=rb549AnzXbsC&printsec=frontcover&dq=hitchens&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.pl/books?id=rb549AnzXbsC&dq=hitchens&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.pl/books/about/The_Trial_of_Henry_Kissinger.html?hl=&id=rb549AnzXbsC"
+   },
+   "saleInfo": {
+    "country": "PL",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 50.82,
+     "currencyCode": "PLN"
+    },
+    "retailPrice": {
+     "amount": 34.56,
+     "currencyCode": "PLN"
+    },
+    "buyLink": "http://books.google.pl/books?id=rb549AnzXbsC&dq=hitchens&hl=&buy=&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 5.082E7,
+       "currencyCode": "PLN"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.456E7,
+       "currencyCode": "PLN"
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "PL",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.pl/books/download/The_Trial_of_Henry_Kissinger-sample-epub.acsm?id=rb549AnzXbsC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.pl/books/download/The_Trial_of_Henry_Kissinger-sample-pdf.acsm?id=rb549AnzXbsC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://books.google.pl/books/reader?id=rb549AnzXbsC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "This book is a polemical masterpiece by a man who, for forty years, was the Angloshpere&#39;s preeminent man of letters. In The Trial of Henry Kissinger, Hitchens&#39; verve, style and firebrand wit are on show at the height of their potency."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "c-dg1dA7tPgC",
+   "etag": "v7VfEoyXdmE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/c-dg1dA7tPgC",
+   "volumeInfo": {
+    "title": "The Missionary Position",
+    "subtitle": "Mother Teresa in Theory and Practice",
+    "authors": [
+     "Christopher Hitchens"
+    ],
+    "publisher": "Atlantic Books Ltd",
+    "publishedDate": "2012-04-01",
+    "description": "In this frank and damning expos of the Teresa cult, Hitchens details the nature and limits of one woman's mission to help the world's poor. He probes the source of the heroic status bestowed upon an Albanian nun whose only declared wish was to serve God. He asks whether Mother Teresa's good works answered any higher purpose than the need of the world's privileged to see someone, somewhere, doing something for the Third World. He unmasks pseudo-miracles, questions Mother Teresa's fitness to adjudicate on matters of sex and reproduction, and reports on a version of saintly ubiquity which affords genial relations with dictators, corrupt tycoons and convicted frauds. Is Mother Teresa merely an essential salve to the conscience of the rich West, or an expert PR machine for the Catholic Church? In its caustic iconoclasm and unsparing wit, The Missionary Position showcases the devastating effect of Hitchens' writing at its polemical best.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780857898401"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "085789840X"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 300,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Collections"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 275,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.8.8.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.pl/books/content?id=c-dg1dA7tPgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.pl/books/content?id=c-dg1dA7tPgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.pl/books?id=c-dg1dA7tPgC&printsec=frontcover&dq=hitchens&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.pl/books?id=c-dg1dA7tPgC&dq=hitchens&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.pl/books/about/The_Missionary_Position.html?hl=&id=c-dg1dA7tPgC"
+   },
+   "saleInfo": {
+    "country": "PL",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 43.19,
+     "currencyCode": "PLN"
+    },
+    "retailPrice": {
+     "amount": 29.37,
+     "currencyCode": "PLN"
+    },
+    "buyLink": "http://books.google.pl/books?id=c-dg1dA7tPgC&dq=hitchens&hl=&buy=&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 4.319E7,
+       "currencyCode": "PLN"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.937E7,
+       "currencyCode": "PLN"
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "PL",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.pl/books/download/The_Missionary_Position-sample-epub.acsm?id=c-dg1dA7tPgC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.pl/books/download/The_Missionary_Position-sample-pdf.acsm?id=c-dg1dA7tPgC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://books.google.pl/books/reader?id=c-dg1dA7tPgC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "In its caustic iconoclasm and unsparing wit, The Missionary Position showcases the devastating effect of Hitchens&#39; writing at its polemical best."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "TfW-92DugAwC",
+   "etag": "+tD7jQrOJtg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/TfW-92DugAwC",
+   "volumeInfo": {
+    "title": "Letters to a Young Contrarian",
+    "authors": [
+     "Christopher Hitchens"
+    ],
+    "publisher": "Basic Books",
+    "publishedDate": "2009",
+    "description": "In the book that he was born to write, provocateur and best-selling author Christopher Hitchens inspires future generations of radicals, gadflies, mavericks, rebels, angry young (wo)men, and dissidents. Who better to speak to that person who finds him or herself in a contrarian position than Hitchens, who has made a career of disagreeing in profound and entertaining ways.This book explores the entire range of \"contrary positions\"-from noble dissident to gratuitous pain in the butt. In an age of overly polite debate bending over backward to reach a happy consensus within an increasingly centrist political dialogue, Hitchens pointedly pitches himself in contrast. He bemoans the loss of the skills of dialectical thinking evident in contemporary society. He understands the importance of disagreement-to personal integrity, to informed discussion, to true progress-heck, to democracy itself. Epigrammatic, spunky, witty, in your face, timeless and timely, this book is everything you would expect from a mentoring contrarian.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "078673907X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780786739073"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 158,
+    "printType": "BOOK",
+    "categories": [
+     "PHILOSOPHY"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 256,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.6.5.0.preview.2",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.pl/books/content?id=TfW-92DugAwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.pl/books/content?id=TfW-92DugAwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.pl/books?id=TfW-92DugAwC&printsec=frontcover&dq=hitchens&hl=&cd=3&source=gbs_api",
+    "infoLink": "http://books.google.pl/books?id=TfW-92DugAwC&dq=hitchens&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.pl/books/about/Letters_to_a_Young_Contrarian.html?hl=&id=TfW-92DugAwC"
+   },
+   "saleInfo": {
+    "country": "PL",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 62.9,
+     "currencyCode": "PLN"
+    },
+    "retailPrice": {
+     "amount": 42.77,
+     "currencyCode": "PLN"
+    },
+    "buyLink": "http://books.google.pl/books?id=TfW-92DugAwC&dq=hitchens&hl=&buy=&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 6.29E7,
+       "currencyCode": "PLN"
+      },
+      "retailPrice": {
+       "amountInMicros": 4.277E7,
+       "currencyCode": "PLN"
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "PL",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.pl/books/download/Letters_to_a_Young_Contrarian-sample-epub.acsm?id=TfW-92DugAwC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.pl/books/reader?id=TfW-92DugAwC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "In the book that he was born to write, provocateur and best-selling author Christopher Hitchens inspires future generations of radicals, gadflies, mavericks, rebels, angry young (wo)men, and dissidents."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "7kuFuAAACAAJ",
+   "etag": "8ni1pZIbUlc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/7kuFuAAACAAJ",
+   "volumeInfo": {
+    "title": "Bóg nie jest wielki",
+    "subtitle": "jak religia wszystko zatruwa",
+    "authors": [
+     "Christopher Hitchens"
+    ],
+    "publishedDate": "2007",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "8375080578"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9788375080575"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 300,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.pl/books/content?id=7kuFuAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.pl/books/content?id=7kuFuAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pl",
+    "previewLink": "http://books.google.pl/books?id=7kuFuAAACAAJ&dq=hitchens&hl=&cd=4&source=gbs_api",
+    "infoLink": "http://books.google.pl/books?id=7kuFuAAACAAJ&dq=hitchens&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.pl/books/about/B%C3%B3g_nie_jest_wielki.html?hl=&id=7kuFuAAACAAJ"
+   },
+   "saleInfo": {
+    "country": "PL",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "PL",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.pl/books/reader?id=7kuFuAAACAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "BS3i-Mz3I_UC",
+   "etag": "1ddmnpuhA2Q",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/BS3i-Mz3I_UC",
+   "volumeInfo": {
+    "title": "Hitch 22",
+    "subtitle": "A Memoir",
+    "authors": [
+     "Christopher Hitchens"
+    ],
+    "publisher": "Atlantic Books Ltd",
+    "publishedDate": "2010-05-20",
+    "description": "The acid, hilarious, confessional, provocative bestselling memoirs of our greatest contrarian, and the author of god Is Not Great. In this long-awaited and candid memoir, Hitchens re-traced the footsteps of his life to date, from his childhood in Portsmouth, with his adoring, tragic mother and reserved Naval officer father; to his life in Washington DC, the base from which from he would launch fierce attacks on tyranny of all kinds. Along the way, he recalled the girls, boys and booze; the friendships and the feuds; the grand struggles and lost causes; and the mistakes and misgivings that have characterised his life. Hitch-22 is, by turns, moving and funny, charming and infuriating, enraging and inspiring. It is an indispensable companion to the life and thought of our pre-eminent political writer.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781848877535"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1848877536"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 300,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 29,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "2.3.3.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.pl/books/content?id=BS3i-Mz3I_UC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.pl/books/content?id=BS3i-Mz3I_UC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.pl/books?id=BS3i-Mz3I_UC&printsec=frontcover&dq=hitchens&hl=&cd=5&source=gbs_api",
+    "infoLink": "http://books.google.pl/books?id=BS3i-Mz3I_UC&dq=hitchens&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.pl/books/about/Hitch_22.html?hl=&id=BS3i-Mz3I_UC"
+   },
+   "saleInfo": {
+    "country": "PL",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 48.27,
+     "currencyCode": "PLN"
+    },
+    "retailPrice": {
+     "amount": 32.82,
+     "currencyCode": "PLN"
+    },
+    "buyLink": "http://books.google.pl/books?id=BS3i-Mz3I_UC&dq=hitchens&hl=&buy=&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 4.827E7,
+       "currencyCode": "PLN"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.282E7,
+       "currencyCode": "PLN"
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "PL",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.pl/books/download/Hitch_22-sample-epub.acsm?id=BS3i-Mz3I_UC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.pl/books/download/Hitch_22-sample-pdf.acsm?id=BS3i-Mz3I_UC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://books.google.pl/books/reader?id=BS3i-Mz3I_UC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Hitch-22 is, by turns, moving and funny, charming and infuriating, enraging and inspiring. It is an indispensable companion to the life and thought of our pre-eminent political writer."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "2f9ECP49MLIC",
+   "etag": "RdnQaA2jLu4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/2f9ECP49MLIC",
+   "volumeInfo": {
+    "title": "Arguably",
+    "authors": [
+     "Christopher Hitchens"
+    ],
+    "publisher": "Atlantic Books Ltd",
+    "publishedDate": "2011-10-01",
+    "description": "'As soon as we abandon our own reason', wrote Bertrand Russell, 'and are content to rely upon authority, there is no end to our troubles.' For over forty years, Christopher Hitchens has proclaimed truth where others have spun falsehood and written, with passionate commitment, on matters that others fear to broach. This volume of essays encompasses Hitchens' writing over the past decade on politics, literature and religion. In Arguably Hitchens explores a wide range of cultural and political issues, past and present. His fresh perceptions of figures as diverse as Charles Dickens, Karl Marx, Rebecca West and Philip Larkin are matched in brilliance by his acerbic discussions and intrepid observations, gathered over a lifetime of travelling and reporting from destinations such as Iran, China and Pakistan. Hitchens' life has above all else been one of defiance and wit, courage and humility: in an age of digital punditry and twenty-four hour hucksterism, he has been a voice of reason amid the clamour, making an indelible mark on politics and literature on both sides of the Atlantic. Arguably is the indispensible companion to the Anglosphere's pre-eminent political writer.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780857892577"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0857892576"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 300,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Collections"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 23,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "2.4.4.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.pl/books/content?id=2f9ECP49MLIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.pl/books/content?id=2f9ECP49MLIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.pl/books?id=2f9ECP49MLIC&printsec=frontcover&dq=hitchens&hl=&cd=6&source=gbs_api",
+    "infoLink": "http://books.google.pl/books?id=2f9ECP49MLIC&dq=hitchens&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.pl/books/about/Arguably.html?hl=&id=2f9ECP49MLIC"
+   },
+   "saleInfo": {
+    "country": "PL",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 50.82,
+     "currencyCode": "PLN"
+    },
+    "retailPrice": {
+     "amount": 34.56,
+     "currencyCode": "PLN"
+    },
+    "buyLink": "http://books.google.pl/books?id=2f9ECP49MLIC&dq=hitchens&hl=&buy=&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 5.082E7,
+       "currencyCode": "PLN"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.456E7,
+       "currencyCode": "PLN"
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "PL",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.pl/books/download/Arguably-sample-epub.acsm?id=2f9ECP49MLIC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.pl/books/download/Arguably-sample-pdf.acsm?id=2f9ECP49MLIC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://books.google.pl/books/reader?id=2f9ECP49MLIC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "This volume of essays encompasses Hitchens&#39; writing over the past decade on politics, literature and religion. In Arguably Hitchens explores a wide range of cultural and political issues, past and present."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "JZfCBAAAQBAJ",
+   "etag": "AGciO3ZTgt0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/JZfCBAAAQBAJ",
+   "volumeInfo": {
+    "title": "Unacknowledged Legislation",
+    "subtitle": "Writers in the Public Sphere",
+    "authors": [
+     "Christopher Hitchens"
+    ],
+    "publisher": "Atlantic Books Ltd",
+    "publishedDate": "2014-12-04",
+    "description": "\u003eUnacknowledged Legislation is a celebration of Percy Shelley's assertion that 'poets are the unacknowledged legislators of the world'. In over thirty magnificent essays on writers from Oscar Wilde to Salman Rushdie, and with his trademark wit, rigour and flair, master critic Christopher Hitchens dispels the myth of politics as a stone tied to the neck of literature. Instead, Hitchens argues that when all parties in the state were agreed on a matter, it was the individual pens that created the space for a true moral argument.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781782394983"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1782394982"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 300,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Collections"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 12,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.2.2.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.pl/books/content?id=JZfCBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.pl/books/content?id=JZfCBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.pl/books?id=JZfCBAAAQBAJ&printsec=frontcover&dq=hitchens&hl=&cd=7&source=gbs_api",
+    "infoLink": "http://books.google.pl/books?id=JZfCBAAAQBAJ&dq=hitchens&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.pl/books/about/Unacknowledged_Legislation.html?hl=&id=JZfCBAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "PL",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 83.88,
+     "currencyCode": "PLN"
+    },
+    "retailPrice": {
+     "amount": 58.72,
+     "currencyCode": "PLN"
+    },
+    "buyLink": "http://books.google.pl/books?id=JZfCBAAAQBAJ&dq=hitchens&hl=&buy=&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 8.388E7,
+       "currencyCode": "PLN"
+      },
+      "retailPrice": {
+       "amountInMicros": 5.872E7,
+       "currencyCode": "PLN"
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "PL",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.pl/books/download/Unacknowledged_Legislation-sample-epub.acsm?id=JZfCBAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.pl/books/download/Unacknowledged_Legislation-sample-pdf.acsm?id=JZfCBAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://books.google.pl/books/reader?id=JZfCBAAAQBAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "In over thirty magnificent essays on writers from Oscar Wilde to Salman Rushdie, and with his trademark wit, rigour and flair, master critic Christopher Hitchens dispels the myth of politics as a stone tied to the neck of literature."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "uurpnvOuErIC",
+   "etag": "mK5OW3k+xqk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/uurpnvOuErIC",
+   "volumeInfo": {
+    "title": "The Elgin Marbles",
+    "subtitle": "Should They be Returned to Greece?",
+    "authors": [
+     "Christopher Hitchens",
+     "Robert Browning",
+     "Graham Binns"
+    ],
+    "publisher": "Verso",
+    "publishedDate": "1997",
+    "description": "The Elgin Marbles, designed and executed by Phidias to adorn the Parthenon, are some of the most beautiful sculptures of ancient Greece. In 1801 Lord Elgin, then British ambassador to the Turkish government in Athens, had pieces of the frieze sawed off and removed to Britain, where they remain. Here Christopher Hitchens recounts the history of these precious sculptures and forcefully makes the case for their return to Greece.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1859842208"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781859842201"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 138,
+    "printType": "BOOK",
+    "categories": [
+     "Art"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.pl/books/content?id=uurpnvOuErIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.pl/books/content?id=uurpnvOuErIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.pl/books?id=uurpnvOuErIC&printsec=frontcover&dq=hitchens&hl=&cd=8&source=gbs_api",
+    "infoLink": "http://books.google.pl/books?id=uurpnvOuErIC&dq=hitchens&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.pl/books/about/The_Elgin_Marbles.html?hl=&id=uurpnvOuErIC"
+   },
+   "saleInfo": {
+    "country": "PL",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "PL",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.pl/books/reader?id=uurpnvOuErIC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "The Elgin Marbles, designed and executed by Phidias to adorn the Parthenon, are some of the most beautiful sculptures of ancient Greece."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Sw1NA9bFmrYC",
+   "etag": "7PgZeB8RTTE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Sw1NA9bFmrYC",
+   "volumeInfo": {
+    "title": "Hostage to History",
+    "subtitle": "Cyprus from the Ottomans to Kissinger",
+    "authors": [
+     "Christopher Hitchens"
+    ],
+    "publisher": "Verso",
+    "publishedDate": "1997",
+    "description": "In a compelling study of great-power misconduct, Christopher Hitchens examines the events leading up to the partition of Cyprus and its legacy. He argues that the intervention of four major foreign powers, Turkey, Greece, Britain and the United States, turned a local dispute into a major disaster. In a new preface for this 1997 edition, Hitchens reviews the implications of the Republic of Cyprus's applications for European union membership, the escalating regional arms race between Greece and Turkey, and last year's Greek Cypriot protests along the partition border.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1859841899"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781859841891"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 178,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 7,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.pl/books/content?id=Sw1NA9bFmrYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.pl/books/content?id=Sw1NA9bFmrYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.pl/books?id=Sw1NA9bFmrYC&printsec=frontcover&dq=hitchens&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.pl/books?id=Sw1NA9bFmrYC&dq=hitchens&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.pl/books/about/Hostage_to_History.html?hl=&id=Sw1NA9bFmrYC"
+   },
+   "saleInfo": {
+    "country": "PL",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "PL",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.pl/books/reader?id=Sw1NA9bFmrYC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "In a new preface for this 1997 edition, Hitchens reviews the implications of the Republic of Cyprus&#39;s applications for European union membership, the escalating regional arms race between Greece and Turkey, and last year&#39;s Greek Cypriot ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "bJbCBAAAQBAJ",
+   "etag": "EtZQ9T2nGe8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/bJbCBAAAQBAJ",
+   "volumeInfo": {
+    "title": "For the Sake of Argument",
+    "subtitle": "Essays and Minority Reports",
+    "authors": [
+     "Christopher Hitchens"
+    ],
+    "publisher": "Atlantic Books Ltd",
+    "publishedDate": "2014-12-04",
+    "description": "The global turmoil of the late 1980s and early 1990s severely tested every analyst and commentator. Few wrote with such insight as Christopher Hitchens about the large events - or with such discernment and wit about the small tell-tale signs of a disordered culture. First published in 1993, the writings in For the Sake of Argument range from the political squalor of Washington to the twilight of Stalinizm in Prague, from the Jewish quarter of Damascus in the aftermath of the Gulf War to the embattled barrios of Central America. Hitchens provides re-assessments of Graham Greene, P. G. Woodhouse and C. L. R. James, and his rogues' gallery gives us portraits of Henry Kissinger, Mother Theresa and P. J. O'Rouke. The addition of pieces on political assassination in America, as well as a devastating indictment of the evisceration of politics by pollsters and spin doctors, and an entertaining celebration of booze and fags, complete this outstanding collection from a writer of unequalled talent.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781782394976"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1782394974"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 300,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Collections"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 10,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.2.2.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.pl/books/content?id=bJbCBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.pl/books/content?id=bJbCBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.pl/books?id=bJbCBAAAQBAJ&printsec=frontcover&dq=hitchens&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.pl/books?id=bJbCBAAAQBAJ&dq=hitchens&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.pl/books/about/For_the_Sake_of_Argument.html?hl=&id=bJbCBAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "PL",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 83.88,
+     "currencyCode": "PLN"
+    },
+    "retailPrice": {
+     "amount": 58.72,
+     "currencyCode": "PLN"
+    },
+    "buyLink": "http://books.google.pl/books?id=bJbCBAAAQBAJ&dq=hitchens&hl=&buy=&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 8.388E7,
+       "currencyCode": "PLN"
+      },
+      "retailPrice": {
+       "amountInMicros": 5.872E7,
+       "currencyCode": "PLN"
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "PL",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.pl/books/download/For_the_Sake_of_Argument-sample-epub.acsm?id=bJbCBAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.pl/books/download/For_the_Sake_of_Argument-sample-pdf.acsm?id=bJbCBAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://books.google.pl/books/reader?id=bJbCBAAAQBAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "The addition of pieces on political assassination in America, as well as a devastating indictment of the evisceration of politics by pollsters and spin doctors, and an entertaining celebration of booze and fags, complete this outstanding ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Lm9VdHv0OWEC",
+   "etag": "3REaVQxHfDg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Lm9VdHv0OWEC",
+   "volumeInfo": {
+    "title": "God is Not Great",
+    "authors": [
+     "Christopher Hitchens"
+    ],
+    "publisher": "Atlantic Books Ltd",
+    "publishedDate": "2011-11-01",
+    "description": "In God is Not Great, Christopher Hitchens takes on his biggest subject yet: the increasingly dangerous role of religion in the world. In an acute reading of the world's major religious texts, Hitchens documents the ways in which religion is man made, a cause of dangerous sexual repression and a gross distortion of our origins in the cosmos. God is Not Great marvels at the possibility of society without religion, arguing instead that the concept of an omniscient God has profoundly damaged humanity. His book is a ferocious and eloquent attempt to persuade its readers that they would all be better off without 'Him'.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780857897152"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0857897152"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 300,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 155,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "2.14.15.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.pl/books/content?id=Lm9VdHv0OWEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.pl/books/content?id=Lm9VdHv0OWEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.pl/books?id=Lm9VdHv0OWEC&printsec=frontcover&dq=hitchens&hl=&cd=11&source=gbs_api",
+    "infoLink": "http://books.google.pl/books?id=Lm9VdHv0OWEC&dq=hitchens&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.pl/books/about/God_is_Not_Great.html?hl=&id=Lm9VdHv0OWEC"
+   },
+   "saleInfo": {
+    "country": "PL",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 40.64,
+     "currencyCode": "PLN"
+    },
+    "retailPrice": {
+     "amount": 27.64,
+     "currencyCode": "PLN"
+    },
+    "buyLink": "http://books.google.pl/books?id=Lm9VdHv0OWEC&dq=hitchens&hl=&buy=&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 4.064E7,
+       "currencyCode": "PLN"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.764E7,
+       "currencyCode": "PLN"
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "PL",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.pl/books/download/God_is_Not_Great-sample-epub.acsm?id=Lm9VdHv0OWEC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.pl/books/download/God_is_Not_Great-sample-pdf.acsm?id=Lm9VdHv0OWEC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://books.google.pl/books/reader?id=Lm9VdHv0OWEC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "In God is Not Great, Christopher Hitchens takes on his biggest subject yet: the increasingly dangerous role of religion in the world."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "6vEgV6KHI1AC",
+   "etag": "e7lxDoq3OiM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/6vEgV6KHI1AC",
+   "volumeInfo": {
+    "title": "Unhitched: The Trial of Christopher Hitchens",
+    "authors": [
+     "Richard Seymour"
+    ],
+    "publisher": "Verso Books",
+    "publishedDate": "2012",
+    "description": "Describes the life of the English American author and journalist who was a prominent public intellectual who wrote about his theophobia and how he was equally fascinated and repulsed by both the Left and the Right as revolutionary forces. Original. 15,000 first printing.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781844679904"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "184467990X"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 160,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 18,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.pl/books/content?id=6vEgV6KHI1AC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.pl/books/content?id=6vEgV6KHI1AC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.pl/books?id=6vEgV6KHI1AC&printsec=frontcover&dq=hitchens&hl=&cd=12&source=gbs_api",
+    "infoLink": "http://books.google.pl/books?id=6vEgV6KHI1AC&dq=hitchens&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.pl/books/about/Unhitched_The_Trial_of_Christopher_Hitch.html?hl=&id=6vEgV6KHI1AC"
+   },
+   "saleInfo": {
+    "country": "PL",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "PL",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.pl/books/reader?id=6vEgV6KHI1AC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Describes the life of the English American author and journalist who was a prominent public intellectual who wrote about his theophobia and how he was equally fascinated and repulsed by both the Left and the Right as revolutionary forces."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "UFY18Bep5ygC",
+   "etag": "St8Cp89Y8GE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/UFY18Bep5ygC",
+   "volumeInfo": {
+    "title": "The Portable Atheist",
+    "subtitle": "Essential Readings for the Nonbeliever",
+    "authors": [
+     "Christopher Hitchens"
+    ],
+    "publisher": "Da Capo Press",
+    "publishedDate": "2007",
+    "description": "Presents excerpts on the subject of religion from the writings of such notable non-believers as John Stuart Mill, Karl Marx, Charles Darwin, Mark Twain, H. L. Mencken, Albert Einstein, Richard Dawkins, and Salman Rushdie.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780306816086"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0306816083"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 499,
+    "printType": "BOOK",
+    "categories": [
+     "Philosophy"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 268,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.0.3.0.preview.2",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.pl/books/content?id=UFY18Bep5ygC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.pl/books/content?id=UFY18Bep5ygC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.pl/books?id=UFY18Bep5ygC&printsec=frontcover&dq=hitchens&hl=&cd=13&source=gbs_api",
+    "infoLink": "http://books.google.pl/books?id=UFY18Bep5ygC&dq=hitchens&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.pl/books/about/The_Portable_Atheist.html?hl=&id=UFY18Bep5ygC"
+   },
+   "saleInfo": {
+    "country": "PL",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "PL",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.pl/books/download/The_Portable_Atheist-sample-epub.acsm?id=UFY18Bep5ygC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.pl/books/reader?id=UFY18Bep5ygC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Presents excerpts on the subject of religion from the writings of such notable non-believers as John Stuart Mill, Karl Marx, Charles Darwin, Mark Twain, H. L. Mencken, Albert Einstein, Richard Dawkins, and Salman Rushdie."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "5ZaGlFCWoDUC",
+   "etag": "UCGSUBZ6sU8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/5ZaGlFCWoDUC",
+   "volumeInfo": {
+    "title": "International Territory",
+    "subtitle": "The United Nations, 1945-95",
+    "authors": [
+     "Adam Bartos",
+     "Christopher Hitchens"
+    ],
+    "publisher": "Verso",
+    "publishedDate": "1994",
+    "description": "Shows the United Nations building in New York, and discusses how it reflects the optimism of the postwar era",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1859849016"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781859849019"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 104,
+    "printType": "BOOK",
+    "categories": [
+     "Architecture"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.pl/books/content?id=5ZaGlFCWoDUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.pl/books/content?id=5ZaGlFCWoDUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.pl/books?id=5ZaGlFCWoDUC&printsec=frontcover&dq=hitchens&hl=&cd=14&source=gbs_api",
+    "infoLink": "http://books.google.pl/books?id=5ZaGlFCWoDUC&dq=hitchens&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.pl/books/about/International_Territory.html?hl=&id=5ZaGlFCWoDUC"
+   },
+   "saleInfo": {
+    "country": "PL",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "PL",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.pl/books/reader?id=5ZaGlFCWoDUC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Shows the United Nations building in New York, and discusses how it reflects the optimism of the postwar era"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "xGxZwshaDq8C",
+   "etag": "96kXxKbBAN4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/xGxZwshaDq8C",
+   "volumeInfo": {
+    "title": "Christopher Hitchens and His Critics",
+    "subtitle": "Terror, Iraq, and the Left",
+    "authors": [
+     "Simon Cottee",
+     "Thomas Cushman",
+     "Christopher Hitchens"
+    ],
+    "publisher": "NYU Press",
+    "publishedDate": "2008-06-01",
+    "description": "By any standard, the United States is the most violent nation in the industrialized world. To find comparable levels of interpersonal violence, one must look to nations in the midst of civil war. Most observers of modern American violence do not consider the historical roots of current levels of violence, preferring to criticize American liberalism, permissive child-rearing practices, and excessive greed and individualism as the sources of the problem. This collection of original essays examines the role of violence in America's past, exploring its history and development, from slave patrols in the Colonial South to gun ownership in the twentieth century. Contributors examine both individual acts, such as domestic violence, murder, dueling, frontier vigilantism, and rape, and group and state-led acts such as lynchings, slave uprisings, rifle clubs, legal sanctions of heterosexual aggression, and invasive medical experiments on women's bodies. Contributors include Jeff Adler, Bruce Baird, Robert Dykstra, Lee Chambers-Schiller, Philip J. Cook, Laura Edwards, Uche Egemonye, Nicole Etcheson, Evan Haefeli, Sally Hadden, Paula Hinton, Arthur L. Kellermann, Laura McCall, Kate Nickerson, Mary Odem, Craig Pascoe, John C. Pettegrew, Junius P. Rodriguez, and Andrea Tone, Christopher Waldrep.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780814716878"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0814716873"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 365,
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 4,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.3.0.preview.2",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.pl/books/content?id=xGxZwshaDq8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.pl/books/content?id=xGxZwshaDq8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.pl/books?id=xGxZwshaDq8C&printsec=frontcover&dq=hitchens&hl=&cd=15&source=gbs_api",
+    "infoLink": "http://books.google.pl/books?id=xGxZwshaDq8C&dq=hitchens&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.pl/books/about/Christopher_Hitchens_and_His_Critics.html?hl=&id=xGxZwshaDq8C"
+   },
+   "saleInfo": {
+    "country": "PL",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "PL",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.pl/books/download/Christopher_Hitchens_and_His_Critics-sample-epub.acsm?id=xGxZwshaDq8C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.pl/books/reader?id=xGxZwshaDq8C&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "This collection of original essays examines the role of violence in America&#39;s past, exploring its history and development, from slave patrols in the Colonial South to gun ownership in the twentieth century."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "viPLBQAAQBAJ",
+   "etag": "ZBeXUcDpxm8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/viPLBQAAQBAJ",
+   "volumeInfo": {
+    "title": "Why Orwell Matters",
+    "authors": [
+     "Christopher Hitchens"
+    ],
+    "publisher": "Basic Books",
+    "publishedDate": "2008-08-06",
+    "description": "In this widely acclaimed biographical essay, Christopher Hitchens assesses the life, the achievements, and the myth of the great political writer and participant George Orwell. In true emulative and contrarian style, Hitchens is both admiring and aggressive, sympathetic yet critical, taking true measure of his subject as hero and problem. Answering both the detractors and the false claimants, Hitchens tears down the façade of sainthood erected by the hagiographers and rebuts the critics point by point. He examines Orwell and his perspectives on fascism, empire, feminism, and Englishness, as well as his outlook on America, a country and culture towards which he exhibited much ambivalence. Whether thinking about empires or dictators, race or class, nationalism or popular culture, Orwell's moral outlook remains indispensable in a world that has undergone vast changes in the fifty years since his death. Combining the best of Hitchens's polemical punch and intellectual elegance in a tightly woven and subtle argument, this book addresses not only why Orwell matters today, but how he will continue to matter in a future, uncertain world.Christopher Hitchens, one of the most incisive minds of our own age, meets Orwell on the page in this provocative encounter of wit, contention and moral truth.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780786725892"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0786725893"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 352,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Collections"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 103,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.3.2.0.preview.2",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.pl/books/content?id=viPLBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.pl/books/content?id=viPLBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.pl/books?id=viPLBQAAQBAJ&printsec=frontcover&dq=hitchens&hl=&cd=16&source=gbs_api",
+    "infoLink": "http://books.google.pl/books?id=viPLBQAAQBAJ&dq=hitchens&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.pl/books/about/Why_Orwell_Matters.html?hl=&id=viPLBQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "PL",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 62.74,
+     "currencyCode": "PLN"
+    },
+    "retailPrice": {
+     "amount": 42.66,
+     "currencyCode": "PLN"
+    },
+    "buyLink": "http://books.google.pl/books?id=viPLBQAAQBAJ&dq=hitchens&hl=&buy=&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 6.274E7,
+       "currencyCode": "PLN"
+      },
+      "retailPrice": {
+       "amountInMicros": 4.266E7,
+       "currencyCode": "PLN"
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "PL",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.pl/books/download/Why_Orwell_Matters-sample-epub.acsm?id=viPLBQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.pl/books/reader?id=viPLBQAAQBAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Combining the best of Hitchens&#39;s polemical punch and intellectual elegance in a tightly woven and subtle argument, this book addresses not only why Orwell matters today, but how he will continue to matter in a future, uncertain world ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "hek734KWP8wC",
+   "etag": "HKhCqbWthjM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/hek734KWP8wC",
+   "volumeInfo": {
+    "title": "Mortality",
+    "authors": [
+     "Christopher Hitchens"
+    ],
+    "publisher": "Atlantic Books Ltd",
+    "publishedDate": "2012-08-25",
+    "description": "The world's greatest contrarian confronts his own death in this brave and unforgettable book. During the American book tour for his memoir, Hitch-22, Christopher Hitchens collapsed in his hotel room with excruciating pain in his chest. As he would later write in the first of a series of deeply moving Vanity Fair pieces, he was being deported 'from the country of the well across the stark frontier that marks off the land of malady.' Over the next year he experienced the full force of modern cancer treatment. Mortality is at once an unsparingly honest account of the ravages of his disease, an examination of cancer etiquette, and the coda to a lifetime of fierce debate and peerless prose. In this moving personal account of illness, Hitchens confronts his own death - and he is combative and dignified, eloquent and witty to the very last.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780857897657"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0857897659"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 300,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 26,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "3.6.6.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.pl/books/content?id=hek734KWP8wC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.pl/books/content?id=hek734KWP8wC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.pl/books?id=hek734KWP8wC&printsec=frontcover&dq=hitchens&hl=&cd=17&source=gbs_api",
+    "infoLink": "http://books.google.pl/books?id=hek734KWP8wC&dq=hitchens&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.pl/books/about/Mortality.html?hl=&id=hek734KWP8wC"
+   },
+   "saleInfo": {
+    "country": "PL",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 38.1,
+     "currencyCode": "PLN"
+    },
+    "retailPrice": {
+     "amount": 25.91,
+     "currencyCode": "PLN"
+    },
+    "buyLink": "http://books.google.pl/books?id=hek734KWP8wC&dq=hitchens&hl=&buy=&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.81E7,
+       "currencyCode": "PLN"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.591E7,
+       "currencyCode": "PLN"
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "PL",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.pl/books/download/Mortality-sample-epub.acsm?id=hek734KWP8wC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.pl/books/download/Mortality-sample-pdf.acsm?id=hek734KWP8wC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://books.google.pl/books/reader?id=hek734KWP8wC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "The world&#39;s greatest contrarian confronts his own death in this brave and unforgettable book. During the American book tour for his memoir, Hitch-22, Christopher Hitchens collapsed in his hotel room with excruciating pain in his chest."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ZKzW7GQZmA4C",
+   "etag": "mJOgJd3DNEA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ZKzW7GQZmA4C",
+   "volumeInfo": {
+    "title": "Media Law",
+    "subtitle": "Cases and Materials",
+    "authors": [
+     "E. M. Barendt",
+     "Lesley Hitchens"
+    ],
+    "publisher": "Pearson Education",
+    "publishedDate": "2000-01-01",
+    "description": "Covering media law, this work places an emphasis on the regulatory and European aspects. It adopts a comparative approach, drawing upon material from the USA and Commonwealth jurisdictions, as well as relevant aspects of human rights law.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0582317193"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780582317192"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 561,
+    "printType": "BOOK",
+    "categories": [
+     "Law"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.pl/books/content?id=ZKzW7GQZmA4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.pl/books/content?id=ZKzW7GQZmA4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.pl/books?id=ZKzW7GQZmA4C&printsec=frontcover&dq=hitchens&hl=&cd=18&source=gbs_api",
+    "infoLink": "http://books.google.pl/books?id=ZKzW7GQZmA4C&dq=hitchens&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.pl/books/about/Media_Law.html?hl=&id=ZKzW7GQZmA4C"
+   },
+   "saleInfo": {
+    "country": "PL",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "PL",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.pl/books/reader?id=ZKzW7GQZmA4C&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Covering media law, this work places an emphasis on the regulatory and European aspects. It adopts a comparative approach, drawing upon material from the USA and Commonwealth jurisdictions, as well as relevant aspects of human rights law."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "sGUJn1kH5aUC",
+   "etag": "E3Lk4uyeFxo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/sGUJn1kH5aUC",
+   "volumeInfo": {
+    "title": "Against Atheism",
+    "subtitle": "Why Dawkins, Hitchens, and Harris Are Fundamentally Wrong",
+    "authors": [
+     "Ian S. Markham"
+    ],
+    "publisher": "John Wiley & Sons",
+    "publishedDate": "2011-09-13",
+    "description": "In this new book, Ian Markham analyzes the atheistic world view, opposing the arguments given by renowned authors of books on atheism, such as Richard Dawkins. Unlike other responses to the new atheism, Markham challenges these authors on their own ground by questioning their understanding of belief and of atheism itself. The result is a transforming introduction to Christianity that will appeal to anyone interested in this debate. A fascinating challenge to the recent spate of successful books written by high-profile atheist authors such as Richard Dawkins, Christopher Hitchens, and Sam Harris Tackles these authors on their own ground, arguing that they do not understand the nature of atheism, let alone theology and ethics Draws on ideas from Nietzsche, cosmology, and art to construct a powerful response that allows for a faith that is grounded, yet one that recognizes the reality of uncertainty Succinct, engaging, but robustly argued, this new book by a leading academic and writer contains a wealth of profound insights that show religious belief in a new light",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781444358001"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1444358006"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 176,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "averageRating": 1.0,
+    "ratingsCount": 24,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.7.4.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.pl/books/content?id=sGUJn1kH5aUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.pl/books/content?id=sGUJn1kH5aUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.pl/books?id=sGUJn1kH5aUC&printsec=frontcover&dq=hitchens&hl=&cd=19&source=gbs_api",
+    "infoLink": "http://books.google.pl/books?id=sGUJn1kH5aUC&dq=hitchens&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.pl/books/about/Against_Atheism.html?hl=&id=sGUJn1kH5aUC"
+   },
+   "saleInfo": {
+    "country": "PL",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 144.71,
+     "currencyCode": "PLN"
+    },
+    "retailPrice": {
+     "amount": 101.3,
+     "currencyCode": "PLN"
+    },
+    "buyLink": "http://books.google.pl/books?id=sGUJn1kH5aUC&dq=hitchens&hl=&buy=&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.4471E8,
+       "currencyCode": "PLN"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.013E8,
+       "currencyCode": "PLN"
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "PL",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.pl/books/download/Against_Atheism-sample-epub.acsm?id=sGUJn1kH5aUC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.pl/books/download/Against_Atheism-sample-pdf.acsm?id=sGUJn1kH5aUC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://books.google.pl/books/reader?id=sGUJn1kH5aUC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "In this new book, Ian Markham analyzes the atheistic world view, opposing the arguments given by renowned authors of books on atheism, such as Richard Dawkins."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "nNTDaH6LFX0C",
+   "etag": "nkRBRwwmTUU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/nNTDaH6LFX0C",
+   "volumeInfo": {
+    "title": "Long Live Hitch",
+    "subtitle": "Three Classic Books in One Volume",
+    "authors": [
+     "Christopher Hitchens"
+    ],
+    "publisher": "Atlantic Books Ltd",
+    "publishedDate": "2012-12-15",
+    "description": "Three of the most provocative and thought-provoking works of the great Christopher Hitchens, now available in one volume. god Is Not Great This provocative international bestseller is the ultimate case against religion. In a series of acute readings of the major religious texts, Christopher Hitchens demonstrates the ways in which religion is man-made, dangerously sexually repressive and distorts the very origins of the cosmos. Above all, Hitchens argues that the concept of an omniscient God has profoundly damaged humanity, and proposes that the world might be a great deal better off without 'him'. Hitch-22 The hilarious and provocative bestselling memoirs of our greatest contrarian are by turns, moving and funny, charming and infuriating, enraging and inspiring. It is an indispensable companion to the life and thought of our pre-eminent political writer. Arguably For forty years, Christopher Hitchens was at the epicentre of the battle of letters in Britain & America. Throughout his life he shone the light of reason and truth into the eyes of charlatans and hucksters, exposing falsehood and decrying hypocrisy wherever he found it. Arguably collects Hitchens' writing on politics, literature and religion when he was at the zenith of his career.\u003c/p\u003e",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781782391418"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "178239141X"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 300,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.6.6.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.pl/books/content?id=nNTDaH6LFX0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.pl/books/content?id=nNTDaH6LFX0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.pl/books?id=nNTDaH6LFX0C&printsec=frontcover&dq=hitchens&hl=&cd=20&source=gbs_api",
+    "infoLink": "http://books.google.pl/books?id=nNTDaH6LFX0C&dq=hitchens&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.pl/books/about/Long_Live_Hitch.html?hl=&id=nNTDaH6LFX0C"
+   },
+   "saleInfo": {
+    "country": "PL",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 109.31,
+     "currencyCode": "PLN"
+    },
+    "retailPrice": {
+     "amount": 76.52,
+     "currencyCode": "PLN"
+    },
+    "buyLink": "http://books.google.pl/books?id=nNTDaH6LFX0C&dq=hitchens&hl=&buy=&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.0931E8,
+       "currencyCode": "PLN"
+      },
+      "retailPrice": {
+       "amountInMicros": 7.652E7,
+       "currencyCode": "PLN"
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "PL",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.pl/books/download/Long_Live_Hitch-sample-epub.acsm?id=nNTDaH6LFX0C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.pl/books/download/Long_Live_Hitch-sample-pdf.acsm?id=nNTDaH6LFX0C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://books.google.pl/books/reader?id=nNTDaH6LFX0C&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "In a series of acute readings of the major religious texts, Christopher Hitchens demonstrates the ways in which religion is man-made, dangerously sexually repressive and distorts the very origins of the cosmos."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "9G7dnFrr-ugC",
+   "etag": "UkjRLzxsxRo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/9G7dnFrr-ugC",
+   "volumeInfo": {
+    "title": "Love, Poverty and War",
+    "subtitle": "Journeys and Essays",
+    "authors": [
+     "Christopher Hitchens"
+    ],
+    "publisher": "Atlantic Books Ltd",
+    "publishedDate": "2012-08-01",
+    "description": "\"I did not, I wish to state, become a journalist because there was no other 'profession' that would have me. I became a journalist because I did not want to rely on newspapers for information.\" Love, Poverty and War: Journeys and Essays showcases the Hitchens' rejection of consensus and clich, whether he's reporting from abroad in Indonesia, Kurdistan, Iraq, North Korea, or Cuba, or when his pen is targeted mercilessly at the likes of William Clinton, Mother Theresa (\"a fanatic, a fundamentalist and a fraud\"), the Dalai Lama, Noam Chomsky, Mel Gibson and Michael Bloomberg. Hitchens began the nineties as a \"darling of the left\" but has become more of an \"unaffiliated radical\" whose targets include those on the \"left,\" who he accuses of \"fudging\" the issue of military intervention in the Balkans, Afghanistan and Iraq. Yet, as Hitchens shows in his reportage, cultural and literary criticism, and opinion essays from the last decade, he has not jumped ship and joined the right but is faithful to the internationalist, contrarian and democratic ideals that have always informed his work. \"I did not, I wish to state, become a journalist because there was no other 'profession' that would have me. I became a journalist because I did not want to rely on newspapers for information.\" Love, Poverty and War: Journeys and Essays showcases the Hitchens' rejection of consensus and clich, whether he's reporting from abroad in Indonesia, Kurdistan, Iraq, North Korea, or Cuba, or when his pen is targeted mercilessly at the likes of William Clinton, Mother Theresa (\"a fanatic, a fundamentalist and a fraud\"), the Dalai Lama, Noam Chomsky, Mel Gibson and Michael Bloomberg. Hitchens began the nineties as a \"darling of the left\" but has become more of an \"unaffiliated radical\" whose targets include those on the \"left,\" who he accuses of \"fudging\" the issue of military intervention in the Balkans, Afghanistan and Iraq. Yet, as Hitchens shows in his reportage, cultural and literary criticism, and opinion essays from the last decade, he has not jumped ship and joined the right but is faithful to the internationalist, contrarian and democratic ideals that have always informed his work.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780857899385"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0857899384"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 300,
+    "printType": "BOOK",
+    "categories": [
+     "Political Science"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 62,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.7.7.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.pl/books/content?id=9G7dnFrr-ugC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.pl/books/content?id=9G7dnFrr-ugC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.pl/books?id=9G7dnFrr-ugC&printsec=frontcover&dq=hitchens&hl=&cd=21&source=gbs_api",
+    "infoLink": "http://books.google.pl/books?id=9G7dnFrr-ugC&dq=hitchens&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.pl/books/about/Love_Poverty_and_War.html?hl=&id=9G7dnFrr-ugC"
+   },
+   "saleInfo": {
+    "country": "PL",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 50.82,
+     "currencyCode": "PLN"
+    },
+    "retailPrice": {
+     "amount": 34.56,
+     "currencyCode": "PLN"
+    },
+    "buyLink": "http://books.google.pl/books?id=9G7dnFrr-ugC&dq=hitchens&hl=&buy=&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 5.082E7,
+       "currencyCode": "PLN"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.456E7,
+       "currencyCode": "PLN"
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "PL",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.pl/books/download/Love_Poverty_and_War-sample-epub.acsm?id=9G7dnFrr-ugC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.pl/books/download/Love_Poverty_and_War-sample-pdf.acsm?id=9G7dnFrr-ugC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://books.google.pl/books/reader?id=9G7dnFrr-ugC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "&quot; Love, Poverty and War: Journeys and Essays showcases the Hitchens&#39; rejection of consensus and clich, whether he&#39;s reporting from abroad in Indonesia, Kurdistan, Iraq, North Korea, or Cuba, or when his pen is targeted mercilessly at the ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "piGlW1OyEmAC",
+   "etag": "sr8z7WivmQs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/piGlW1OyEmAC",
+   "volumeInfo": {
+    "title": "Thomas Jefferson",
+    "authors": [
+     "Christopher Hitchens"
+    ],
+    "publisher": "Harper Collins",
+    "publishedDate": "2009-10-13",
+    "description": "In this unique biography of Thomas Jefferson, leading journalist and social critic Christopher Hitchens offers a startlingly new and provocative interpretation of our Founding Father. Situating Jefferson within the context of America's evolution and tracing his legacy over the past two hundred years, Hitchens brings the character of Jefferson to life as a man of his time and also as a symbolic figure beyond it. Conflicted by power, Jefferson wrote the Declaration of Independence and acted as Minister to France yet yearned for a quieter career in the Virginia legislature. Predicting that slavery would shape the future of America's development, this professed proponent of emancipation elided the issue in the Declaration and continued to own human property. An eloquent writer, he was an awkward public speaker; a reluctant candidate, he left an indelible presidential legacy. Jefferson's statesmanship enabled him to negotiate the Louisiana Purchase with France, doubling the size of the nation, and he authorized the Lewis and Clark expedition, opening up the American frontier for exploration and settlement. Hitchens also analyzes Jefferson's handling of the Barbary War, a lesser-known chapter of his political career, when his attempt to end the kidnapping and bribery of Americans by the Barbary states, and the subsequent war with Tripoli, led to the building of the U.S. navy and the fortification of America's reputation regarding national defense. In the background of this sophisticated analysis is a large historical drama: the fledgling nation's struggle for independence, formed in the crucible of the eighteenth-century Enlightenment, and, in its shadow, the deformation of that struggle in the excesses of the French Revolution. This artful portrait of a formative figure and a turbulent era poses a challenge to anyone interested in American history -- or in the ambiguities of human nature.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0061753971"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780061753978"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 208,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 133,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.3.3.0.preview.2",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.pl/books/content?id=piGlW1OyEmAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.pl/books/content?id=piGlW1OyEmAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.pl/books?id=piGlW1OyEmAC&printsec=frontcover&dq=hitchens&hl=&cd=22&source=gbs_api",
+    "infoLink": "http://books.google.pl/books?id=piGlW1OyEmAC&dq=hitchens&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.pl/books/about/Thomas_Jefferson.html?hl=&id=piGlW1OyEmAC"
+   },
+   "saleInfo": {
+    "country": "PL",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "PL",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.pl/books/download/Thomas_Jefferson-sample-epub.acsm?id=piGlW1OyEmAC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.pl/books/reader?id=piGlW1OyEmAC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "In this unique biography of Thomas Jefferson, leading journalist and social critic Christopher Hitchens offers a startlingly new and provocative interpretation of our Founding Father."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "YLPnbHC1ydAC",
+   "etag": "kx2VT5oZcR8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/YLPnbHC1ydAC",
+   "volumeInfo": {
+    "title": "Thomas Paine's Rights of Man",
+    "authors": [
+     "Christopher Hitchens"
+    ],
+    "publisher": "Grove/Atlantic, Inc.",
+    "publishedDate": "2008-09-16",
+    "description": "Christopher Hitchens, the #1 New York Times best-selling author of God Is Not Great has been called a Tom Paine for our times, and in this addition to the Books that Changed the World Series, he vividly introduces Paine and his Declaration of the Rights of Man, the world’s foremost defense of democracy. Inspired by his outrage at Edmund Burke’s attack on the French Revolution, Paine’s text is a passionate defense of man’s inalienable rights, and the key to his reputation. Ever since the day of publication in 1791, Declaration of the Rights of Man has been celebrated, criticized, maligned, suppressed, and co-opted, but in Thomas Paine’s Rights of Man, Hitchens marvels at its forethought and revels in its contentiousness. Famous as a polemicist and provocative commentator, Hitchens is a political descendent of the great pamphleteer. In this engaging work he demonstrates how Thomas Paine’s book forms the philosophical cornerstone of the United States of America, and how “in a time when both rights and reason are under attack, the life and writing of Thomas Paine will always be part of the arsenal on which we shall need to depend.”",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781555849276"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "155584927X"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 320,
+    "printType": "BOOK",
+    "categories": [
+     "Political Science"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 97,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.3.4.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.pl/books/content?id=YLPnbHC1ydAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.pl/books/content?id=YLPnbHC1ydAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.pl/books?id=YLPnbHC1ydAC&printsec=frontcover&dq=hitchens&hl=&cd=23&source=gbs_api",
+    "infoLink": "http://books.google.pl/books?id=YLPnbHC1ydAC&dq=hitchens&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.pl/books/about/Thomas_Paine_s_Rights_of_Man.html?hl=&id=YLPnbHC1ydAC"
+   },
+   "saleInfo": {
+    "country": "PL",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 53.76,
+     "currencyCode": "PLN"
+    },
+    "retailPrice": {
+     "amount": 36.56,
+     "currencyCode": "PLN"
+    },
+    "buyLink": "http://books.google.pl/books?id=YLPnbHC1ydAC&dq=hitchens&hl=&buy=&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 5.376E7,
+       "currencyCode": "PLN"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.656E7,
+       "currencyCode": "PLN"
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "PL",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.pl/books/download/Thomas_Paine_s_Rights_of_Man-sample-epub.acsm?id=YLPnbHC1ydAC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.pl/books/download/Thomas_Paine_s_Rights_of_Man-sample-pdf.acsm?id=YLPnbHC1ydAC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://books.google.pl/books/reader?id=YLPnbHC1ydAC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Christopher Hitchens, the #1 New York Times best-selling author of God Is Not Great has been called a Tom Paine for our times, and in this addition to the Books that Changed the World Series, he vividly introduces Paine and his Declaration ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "BG6Rc80E8toC",
+   "etag": "JBZ+yCagCAU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/BG6Rc80E8toC",
+   "volumeInfo": {
+    "title": "The Quotable Hitchens",
+    "subtitle": "From Alcohol to Zionism--The Very Best of Christopher Hitchens",
+    "authors": [
+     "Windsor Mann"
+    ],
+    "publisher": "Da Capo Press",
+    "publishedDate": "2011",
+    "description": "Over the past few decades, the bestselling author ofHitch-22has crisscrossed the globe debating religious scholars, Catholic clergy, rabbis, and devout Christians on the existence of God--appearances that have attracted thousands of people on both sides of the issue. He has been invited to talk shows and events to discuss everything from the death of Jerry Falwell to the sainthood of Mother Teresa, from U.S. policy in the Middle East to the dangers of religious fundamentalism and beyond. And he is always armed with pithy discourse that is as intelligent as it is quotable. The Quotable Hitchensgathers for the first time the eminent journalist, public intellectual, and all-around provocateur Christopher Hitchen's most scathing, inflammatory, hilarious, and clear-cut commentary from the course of his storied career. Drawn from his many TV appearances, debates, lectures, interviews, articles, and books, the quotations are arranged alphabetically by subject--from atheism and alcoholism to George Orwell and Bertrand Russell, from Islamofascism and Iraq to smoking and sex.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780306819834"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "030681983X"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 353,
+    "printType": "BOOK",
+    "categories": [
+     "LITERARY COLLECTIONS"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.2",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.pl/books/content?id=BG6Rc80E8toC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.pl/books/content?id=BG6Rc80E8toC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.pl/books?id=BG6Rc80E8toC&pg=PR14&dq=hitchens&hl=&cd=24&source=gbs_api",
+    "infoLink": "http://books.google.pl/books?id=BG6Rc80E8toC&dq=hitchens&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.pl/books/about/The_Quotable_Hitchens.html?hl=&id=BG6Rc80E8toC"
+   },
+   "saleInfo": {
+    "country": "PL",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 70.77,
+     "currencyCode": "PLN"
+    },
+    "retailPrice": {
+     "amount": 48.12,
+     "currencyCode": "PLN"
+    },
+    "buyLink": "http://books.google.pl/books?id=BG6Rc80E8toC&dq=hitchens&hl=&buy=&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 7.077E7,
+       "currencyCode": "PLN"
+      },
+      "retailPrice": {
+       "amountInMicros": 4.812E7,
+       "currencyCode": "PLN"
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "PL",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.pl/books/download/The_Quotable_Hitchens-sample-epub.acsm?id=BG6Rc80E8toC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.pl/books/reader?id=BG6Rc80E8toC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "From Alcohol to Zionism--The Very Best of Christopher \u003cb\u003eHitchens\u003c/b\u003e Windsor Mann. \u003cbr\u003e\nthere is no depth under the surface. We cannot even say that our knowledge of \u003cbr\u003e\ndeath is shallow. There is no knowledge. Such thoughts still haunt us; but they no\u003cbr\u003e\n&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "6PNOAQAAIAAJ",
+   "etag": "muXqTmPmg70",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/6PNOAQAAIAAJ",
+   "volumeInfo": {
+    "title": "Civilization and Its Discontents",
+    "authors": [
+     "Sigmund Freud",
+     "Peter (AFT) Gay",
+     "Christopher Hitchens"
+    ],
+    "publisher": "W W Norton & Company Incorporated",
+    "publishedDate": "2010-08-09",
+    "description": "Freud's seminal volume of twentieth-century cultural thought grounded in psychoanalytic theory, now with a new introduction by Christopher Hitchens.",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105215368833"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 186,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 270,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.pl/books/content?id=6PNOAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.pl/books/content?id=6PNOAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.pl/books?id=6PNOAQAAIAAJ&q=hitchens&dq=hitchens&hl=&cd=25&source=gbs_api",
+    "infoLink": "http://books.google.pl/books?id=6PNOAQAAIAAJ&dq=hitchens&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.pl/books/about/Civilization_and_Its_Discontents.html?hl=&id=6PNOAQAAIAAJ"
+   },
+   "saleInfo": {
+    "country": "PL",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "PL",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.pl/books/reader?id=6PNOAQAAIAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Freud&#39;s seminal volume of twentieth-century cultural thought grounded in psychoanalytic theory, now with a new introduction by Christopher Hitchens."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "fiW1NuObIboC",
+   "etag": "GxupMJ/VI4M",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/fiW1NuObIboC",
+   "volumeInfo": {
+    "title": "Hitchens Vs. Blair",
+    "subtitle": "Be it Resolved Religion is a Force for Good in the World",
+    "authors": [
+     "Christopher Hitchens",
+     "Tony Blair"
+    ],
+    "publisher": "House of Anansi",
+    "publishedDate": "2011",
+    "description": "Presents the text of a debate between former British Prime Minister Tony Blair and British intellectual Christopher Hitchens about the role and influence of religion in the modern world.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781770890084"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1770890084"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 81,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 20,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.2",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.pl/books/content?id=fiW1NuObIboC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.pl/books/content?id=fiW1NuObIboC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.pl/books?id=fiW1NuObIboC&dq=hitchens&hl=&cd=26&source=gbs_api",
+    "infoLink": "http://books.google.pl/books?id=fiW1NuObIboC&dq=hitchens&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.pl/books/about/Hitchens_Vs_Blair.html?hl=&id=fiW1NuObIboC"
+   },
+   "saleInfo": {
+    "country": "PL",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "PL",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://books.google.pl/books/reader?id=fiW1NuObIboC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Presents the text of a debate between former British Prime Minister Tony Blair and British intellectual Christopher Hitchens about the role and influence of religion in the modern world."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "pB-hsMnPy60C",
+   "etag": "MBqi9R63JAA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/pB-hsMnPy60C",
+   "volumeInfo": {
+    "title": "Fundamentals of Protein NMR Spectroscopy",
+    "authors": [
+     "Gordon S. Rule",
+     "T. Kevin Hitchens"
+    ],
+    "publisher": "Springer Science & Business Media",
+    "publishedDate": "2006-02-16",
+    "description": "NMR spectroscopy has proven to be a powerful technique to study the structure and dynamics of biological macromolecules. Fundamentals of Protein NMR Spectroscopy is a comprehensive textbook that guides the reader from a basic understanding of the phenomenological properties of magnetic resonance to the application and interpretation of modern multi-dimensional NMR experiments on 15N/13C-labeled proteins. Beginning with elementary quantum mechanics, a set of practical rules is presented and used to describe many commonly employed multi-dimensional, multi-nuclear NMR pulse sequences. A modular analysis of NMR pulse sequence building blocks also provides a basis for understanding and developing novel pulse programs. This text not only covers topics from chemical shift assignment to protein structure refinement, as well as the analysis of protein dynamics and chemical kinetics, but also provides a practical guide to many aspects of modern spectrometer hardware, sample preparation, experimental set-up, and data processing. End of chapter exercises are included to emphasize important concepts. Fundamentals of Protein NMR Spectroscopy not only offer students a systematic, in-depth, understanding of modern NMR spectroscopy and its application to biomolecular systems, but will also be a useful reference for the experienced investigator.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781402035005"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1402035004"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 532,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.pl/books/content?id=pB-hsMnPy60C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.pl/books/content?id=pB-hsMnPy60C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.pl/books?id=pB-hsMnPy60C&pg=PA113&dq=hitchens&hl=&cd=27&source=gbs_api",
+    "infoLink": "http://books.google.pl/books?id=pB-hsMnPy60C&dq=hitchens&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.pl/books/about/Fundamentals_of_Protein_NMR_Spectroscopy.html?hl=&id=pB-hsMnPy60C"
+   },
+   "saleInfo": {
+    "country": "PL",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 491.76,
+     "currencyCode": "PLN"
+    },
+    "retailPrice": {
+     "amount": 344.23,
+     "currencyCode": "PLN"
+    },
+    "buyLink": "http://books.google.pl/books?id=pB-hsMnPy60C&dq=hitchens&hl=&buy=&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 4.9176E8,
+       "currencyCode": "PLN"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.4423E8,
+       "currencyCode": "PLN"
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "PL",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.pl/books/download/Fundamentals_of_Protein_NMR_Spectroscopy-sample-pdf.acsm?id=pB-hsMnPy60C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://books.google.pl/books/reader?id=pB-hsMnPy60C&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Gordon S. Rule, T. Kevin \u003cb\u003eHitchens\u003c/b\u003e. Chapter 5 QUANTUM MECHANICAL \u003cbr\u003e\nDESCRIPTION OF A ONE PULSE EXPERIMENT In the first chapter a classical \u003cbr\u003e\nmodel of the nuclear magnetism was used to describe a one-dimensional NMR&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Oc9laDDP6M8C",
+   "etag": "nBpEFXG8i9g",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Oc9laDDP6M8C",
+   "volumeInfo": {
+    "title": "A Long Short War",
+    "subtitle": "The Postponed Liberation of Iraq",
+    "authors": [
+     "Christopher Hitchens"
+    ],
+    "publisher": "Plume",
+    "publishedDate": "2002",
+    "description": "Presents an eyewitness account of the 2003 war in Iraq while arguing that the war actually began in 1990 when Saddam Hussein invaded Kuwait, and discusses how the conflict has divided public opinion.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0452284988"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780452284982"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 104,
+    "printType": "BOOK",
+    "categories": [
+     "Political Science"
+    ],
+    "averageRating": 2.5,
+    "ratingsCount": 17,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.0.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.pl/books/content?id=Oc9laDDP6M8C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.pl/books/content?id=Oc9laDDP6M8C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.pl/books?id=Oc9laDDP6M8C&q=hitchens&dq=hitchens&hl=&cd=28&source=gbs_api",
+    "infoLink": "http://books.google.pl/books?id=Oc9laDDP6M8C&dq=hitchens&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.pl/books/about/A_Long_Short_War.html?hl=&id=Oc9laDDP6M8C"
+   },
+   "saleInfo": {
+    "country": "PL",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "PL",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.pl/books/reader?id=Oc9laDDP6M8C&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Presents an eyewitness account of the 2003 war in Iraq while arguing that the war actually began in 1990 when Saddam Hussein invaded Kuwait, and discusses how the conflict has divided public opinion."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "CfM7AQAAMAAJ",
+   "etag": "JKoFFaugWYU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/CfM7AQAAMAAJ",
+   "volumeInfo": {
+    "title": "A Short Account of the Death of Samuel Hitchens, and His Brother, Thomas Hitchens, of Bisveal, Near Redruth in Cornwall",
+    "authors": [
+     "James Hitchens",
+     "John Wesley"
+    ],
+    "publishedDate": "1806",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UCD:31175035156168"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 20,
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.0.0.full.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.pl/books/content?id=CfM7AQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.pl/books/content?id=CfM7AQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.pl/books?id=CfM7AQAAMAAJ&pg=PA13&dq=hitchens&hl=&cd=29&source=gbs_api",
+    "infoLink": "http://books.google.pl/books?id=CfM7AQAAMAAJ&dq=hitchens&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.pl/books/about/A_Short_Account_of_the_Death_of_Samuel_H.html?hl=&id=CfM7AQAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "PL",
+    "saleability": "FREE",
+    "isEbook": true,
+    "buyLink": "http://books.google.pl/books?id=CfM7AQAAMAAJ&dq=hitchens&hl=&buy=&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "PL",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.pl/books/reader?id=CfM7AQAAMAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "James \u003cb\u003eHitchens\u003c/b\u003e, John Wesley. -_— :- &#39;ec&#39; A SHORT ACCO-UN&#39;T&#39; &#39; 0F &#39;. THOMAS \u003cbr\u003e\nHITeHENs.. B i s v 1-: A 1., near Redruth, C&#39;o&#39;rnwalL. MY Son, Thomas \u003cb\u003eHitchens\u003c/b\u003e, &#39;\u003cbr\u003e\nwas born Apri&#39; Mth, 1723.. He- went to -school till he was&quot; - about ten years old&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "z7TQ8NSooS4C",
+   "etag": "Qh9p/RH+3zc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/z7TQ8NSooS4C",
+   "volumeInfo": {
+    "title": "Java NIO \\c Ron Hitchens",
+    "authors": [
+     "Ron Hitchens"
+    ],
+    "publisher": "\"O'Reilly Media, Inc.\"",
+    "publishedDate": "2002-08-27",
+    "description": "The java New I/O (NIO) packages in J2SE 1.4 introduce many new, indispensable features previously unavailable to Java programmers. These include APIs for high-performance I/O operations, regular expression processing, and character set coding. These new libraries are a treasure trove for java developers. The NIO APIs are especially valuable where high-performance I/O is a requirement, but they can also be useful in a wide range of scenarios. The new APIs let you work directly with I/O buffers, multiplex nonblocking streams, do scattering reads and gathering writes, do channel-to-channel transfers, work with memory-mapped files, manage file locks, and much more. The new high-performance Regular Expression Library provides sophisticated, Perl-like regex-processing features such as pattern matching, search and replace, capture groups, look ahead assertions, and many others. The Charset API gives you complete control over character set encoding and decoding, which are vital for properly managing the exchange of documents on the Web, for localization, or for other purposes. You can also create and install your own custom character sets. Staying current with the latent java technology is never easy. NIO, new in Java 1.4, is quite possibly the most important new java feature since Swing. Understanding it thoroughly is essential for any serious Java developer. NIO closes the gap between java and natively compiled languages and enables java applications to achieve maximum I/O performance by effectively leveraging operating-system services in a portable way. Java NIO is a comprehensive guide to the java New I/O facilities. It lots you take full advantage of NIO features and shows you how they work, what they can do for you, and when you should use them. This book brings you up to speed on NIO and shows you how to bring your I/O-bound Java applications up to speed as well. Java NIO is an essential part of any Java professional's library.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0596002882"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780596002886"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 282,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "2.4.2.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.pl/books/content?id=z7TQ8NSooS4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.pl/books/content?id=z7TQ8NSooS4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.pl/books?id=z7TQ8NSooS4C&pg=PT35&dq=hitchens&hl=&cd=30&source=gbs_api",
+    "infoLink": "http://books.google.pl/books?id=z7TQ8NSooS4C&dq=hitchens&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.pl/books/about/Java_NIO_c_Ron_Hitchens.html?hl=&id=z7TQ8NSooS4C"
+   },
+   "saleInfo": {
+    "country": "PL",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "PL",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://books.google.pl/books/reader?id=z7TQ8NSooS4C&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Ron \u003cb\u003eHitchens\u003c/b\u003e. The classes in java.nio were designed with invocation chaining in \u003cbr\u003e\nmind. You may have seen invocation chaining used with the StringBuffer class. \u003cbr\u003e\nWhen used wisely, invocation chaining can produce concise, elegant, and&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "OJ2d3QOGJyoC",
+   "etag": "KLoBQFih6oA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/OJ2d3QOGJyoC",
+   "volumeInfo": {
+    "title": "The Broken Compass",
+    "authors": [
+     "Peter Hitchens"
+    ],
+    "publisher": "A&C Black",
+    "publishedDate": "2009-06-20",
+    "description": "The main enemy of conservatism in Britain is the Conservative Party.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781847064059"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1847064051"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 236,
+    "printType": "BOOK",
+    "categories": [
+     "Political Science"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 8,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.2.2.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.pl/books/content?id=OJ2d3QOGJyoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.pl/books/content?id=OJ2d3QOGJyoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.pl/books?id=OJ2d3QOGJyoC&printsec=frontcover&dq=hitchens&hl=&cd=31&source=gbs_api",
+    "infoLink": "http://books.google.pl/books?id=OJ2d3QOGJyoC&dq=hitchens&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.pl/books/about/The_Broken_Compass.html?hl=&id=OJ2d3QOGJyoC"
+   },
+   "saleInfo": {
+    "country": "PL",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "PL",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.pl/books/download/The_Broken_Compass-sample-epub.acsm?id=OJ2d3QOGJyoC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.pl/books/reader?id=OJ2d3QOGJyoC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "The main enemy of conservatism in Britain is the Conservative Party."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "HfBecnvrokQC",
+   "etag": "WJtxbiuqn7g",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/HfBecnvrokQC",
+   "volumeInfo": {
+    "title": "Barron's SAT Subject Test World History",
+    "authors": [
+     "Marilynn Giroux Hitchens",
+     "Heidi Roupp"
+    ],
+    "publisher": "Barron's Educational Series",
+    "publishedDate": "2010",
+    "description": "Previous ed. titled: SAT subject test in world history.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781438080352"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1438080352"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 482,
+    "printType": "BOOK",
+    "categories": [
+     "College entrance achievement tests"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.2",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.pl/books/content?id=HfBecnvrokQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.pl/books/content?id=HfBecnvrokQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.pl/books?id=HfBecnvrokQC&printsec=frontcover&dq=hitchens&hl=&cd=32&source=gbs_api",
+    "infoLink": "http://books.google.pl/books?id=HfBecnvrokQC&dq=hitchens&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.pl/books/about/Barron_s_SAT_Subject_Test_World_History.html?hl=&id=HfBecnvrokQC"
+   },
+   "saleInfo": {
+    "country": "PL",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "PL",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.pl/books/download/Barron_s_SAT_Subject_Test_World_History-sample-epub.acsm?id=HfBecnvrokQC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.pl/books/reader?id=HfBecnvrokQC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Previous ed. titled: SAT subject test in world history."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ft9nAAAAMAAJ",
+   "etag": "/0+f9U2Hj5c",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ft9nAAAAMAAJ",
+   "volumeInfo": {
+    "title": "The Paris Commune, 1871",
+    "authors": [
+     "Karl Marx",
+     "Christopher Hitchens"
+    ],
+    "publisher": "Sidgwick & Jackson",
+    "publishedDate": "1971",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015002700782"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 139,
+    "printType": "BOOK",
+    "categories": [
+     "Paris"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.pl/books/content?id=ft9nAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.pl/books/content?id=ft9nAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.pl/books?id=ft9nAAAAMAAJ&q=hitchens&dq=hitchens&hl=&cd=33&source=gbs_api",
+    "infoLink": "http://books.google.pl/books?id=ft9nAAAAMAAJ&dq=hitchens&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.pl/books/about/The_Paris_Commune_1871.html?hl=&id=ft9nAAAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "PL",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "PL",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.pl/books/reader?id=ft9nAAAAMAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "9j2VBAAAQBAJ",
+   "etag": "PlbbWL/Tcdg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/9j2VBAAAQBAJ",
+   "volumeInfo": {
+    "title": "The Wit and Wisdom of Christopher Hitchens",
+    "subtitle": "Thoughts of an Outspoken Atheist",
+    "authors": [
+     "David Graham"
+    ],
+    "publisher": "David Graham",
+    "publishedDate": "2014-09-22",
+    "description": "One of the best known atheists ever to have lived, Christopher Hitchens was also renowned as being one of the most articulate debaters of modern times. Until his death in 2011 he was regularly quoted in the media due to his controversial views on religion and politics. A much revered character, Hitchens was always one to stay true to his beliefs. This book brings together some of his finest quotes on a range of topics.",
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.pl/books/content?id=9j2VBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.pl/books/content?id=9j2VBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.pl/books?id=9j2VBAAAQBAJ&pg=PT12&dq=hitchens&hl=&cd=34&source=gbs_api",
+    "infoLink": "http://books.google.pl/books?id=9j2VBAAAQBAJ&dq=hitchens&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.pl/books/about/The_Wit_and_Wisdom_of_Christopher_Hitche.html?hl=&id=9j2VBAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "PL",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 13.01,
+     "currencyCode": "PLN"
+    },
+    "retailPrice": {
+     "amount": 10.8,
+     "currencyCode": "PLN"
+    },
+    "buyLink": "http://books.google.pl/books?id=9j2VBAAAQBAJ&dq=hitchens&hl=&buy=&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.301E7,
+       "currencyCode": "PLN"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.08E7,
+       "currencyCode": "PLN"
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "PL",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.pl/books/download/The_Wit_and_Wisdom_of_Christopher_Hitche-sample-pdf.acsm?id=9j2VBAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://books.google.pl/books/reader?id=9j2VBAAAQBAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Thoughts of an Outspoken Atheist David Graham. &quot;Of course, Ido everything for \u003cbr\u003e\nmoney.&quot; * &quot;I&#39;m terrified of losing my voice.&quot; * &quot;My dear wife has, Iwould say, \u003cbr\u003e\nprobably never opened a religious book, and seems to be one of those people to \u003cbr\u003e\nwhom&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "y9tU1I4tVMwC",
+   "etag": "+6sPY8TZd2Y",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/y9tU1I4tVMwC",
+   "volumeInfo": {
+    "title": "The Quotable Hitchens",
+    "subtitle": "From Alcohol to Zionism",
+    "authors": [
+     "Christopher Hitchens",
+     "Windsor Mann"
+    ],
+    "publisher": "Da Capo Press",
+    "publishedDate": "2011",
+    "description": "Includes never-before-collected quotes from the controversial best-selling author on hundreds of subjects--from atheism and alcoholism to Iraq and George Orwell.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0306819589"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780306819582"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 332,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Collections"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.pl/books/content?id=y9tU1I4tVMwC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.pl/books/content?id=y9tU1I4tVMwC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.pl/books?id=y9tU1I4tVMwC&dq=hitchens&hl=&cd=35&source=gbs_api",
+    "infoLink": "http://books.google.pl/books?id=y9tU1I4tVMwC&dq=hitchens&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.pl/books/about/The_Quotable_Hitchens.html?hl=&id=y9tU1I4tVMwC"
+   },
+   "saleInfo": {
+    "country": "PL",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "PL",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://books.google.pl/books/reader?id=y9tU1I4tVMwC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Includes never-before-collected quotes from the controversial best-selling author on hundreds of subjects--from atheism and alcoholism to Iraq and George Orwell."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Sz1wCgAAQBAJ",
+   "etag": "pXcUjazk1Gw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Sz1wCgAAQBAJ",
+   "volumeInfo": {
+    "title": "And Yet...",
+    "subtitle": "Essays",
+    "authors": [
+     "Christopher Hitchens"
+    ],
+    "publisher": "Atlantic Books Ltd",
+    "publishedDate": "2015-11-24",
+    "description": "Christopher Hitchens was an unparalleled, prolific writer, who raised the polemical essay to a new art form, over a lifetime of thinking and debating the defining issues of our times. As an essayist he contributed to the New Statesman, Atlantic Monthly, London Review of Books, TLS and Vanity Fair. Any publication of a volume of Hitchens' essays was a major event on both sides of the Atlantic. Now comes the last of the last; a volume of Hitchens' previously uncollected essays, covering the themes that define Hitchens the thinker: literature, religion and politics. These essays remind us, once more, of the fierce, brilliant and trenchant voice of Christopher Hitchens.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781782394570"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1782394575"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 300,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Collections"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.4.3.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.pl/books/content?id=Sz1wCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.pl/books/content?id=Sz1wCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.pl/books?id=Sz1wCgAAQBAJ&printsec=frontcover&dq=hitchens&hl=&cd=36&source=gbs_api",
+    "infoLink": "http://books.google.pl/books?id=Sz1wCgAAQBAJ&dq=hitchens&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.pl/books/about/And_Yet.html?hl=&id=Sz1wCgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "PL",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 81.34,
+     "currencyCode": "PLN"
+    },
+    "retailPrice": {
+     "amount": 56.94,
+     "currencyCode": "PLN"
+    },
+    "buyLink": "http://books.google.pl/books?id=Sz1wCgAAQBAJ&dq=hitchens&hl=&buy=&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 8.134E7,
+       "currencyCode": "PLN"
+      },
+      "retailPrice": {
+       "amountInMicros": 5.694E7,
+       "currencyCode": "PLN"
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "PL",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.pl/books/download/And_Yet-sample-epub.acsm?id=Sz1wCgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.pl/books/download/And_Yet-sample-pdf.acsm?id=Sz1wCgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://books.google.pl/books/reader?id=Sz1wCgAAQBAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "These essays remind us, once more, of the fierce, brilliant and trenchant voice of Christopher Hitchens."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "AJfCBAAAQBAJ",
+   "etag": "z9HASmN7tbg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/AJfCBAAAQBAJ",
+   "volumeInfo": {
+    "title": "Prepared for the Worst",
+    "subtitle": "Selected Essays and Minority Reports",
+    "authors": [
+     "Christopher Hitchens"
+    ],
+    "publisher": "Atlantic Books Ltd",
+    "publishedDate": "2014-12-04",
+    "description": "Christopher Hitchens is widely recognized as having been one of the liveliest and most influential of contemporary political analysts. Prepared for the Worst is a collection of the best of his essays of the 1980s published on both sides of the Atlantic. These essays confirmed his reputation as a bold commentator combining intellectual tenacity with mordant wit, whether he was writing about the intrigues of Reagan's Washington, a popular novel, the work of Tom Paine, the man George Orwell, or reporting (with sympathy as well as toughness) from Beirut or Bombay, Warsaw or Managua.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781782394990"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1782394990"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 300,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Collections"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 4,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.2.2.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.pl/books/content?id=AJfCBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.pl/books/content?id=AJfCBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.pl/books?id=AJfCBAAAQBAJ&printsec=frontcover&dq=hitchens&hl=&cd=37&source=gbs_api",
+    "infoLink": "http://books.google.pl/books?id=AJfCBAAAQBAJ&dq=hitchens&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.pl/books/about/Prepared_for_the_Worst.html?hl=&id=AJfCBAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "PL",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 83.88,
+     "currencyCode": "PLN"
+    },
+    "retailPrice": {
+     "amount": 58.72,
+     "currencyCode": "PLN"
+    },
+    "buyLink": "http://books.google.pl/books?id=AJfCBAAAQBAJ&dq=hitchens&hl=&buy=&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 8.388E7,
+       "currencyCode": "PLN"
+      },
+      "retailPrice": {
+       "amountInMicros": 5.872E7,
+       "currencyCode": "PLN"
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "PL",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.pl/books/download/Prepared_for_the_Worst-sample-epub.acsm?id=AJfCBAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.pl/books/download/Prepared_for_the_Worst-sample-pdf.acsm?id=AJfCBAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://books.google.pl/books/reader?id=AJfCBAAAQBAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "These essays confirmed his reputation as a bold commentator combining intellectual tenacity with mordant wit, whether he was writing about the intrigues of Reagan&#39;s Washington, a popular novel, the work of Tom Paine, the man George Orwell, ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "DTDdjEgV3bgC",
+   "etag": "elGdgWh8zJ4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/DTDdjEgV3bgC",
+   "volumeInfo": {
+    "title": "Unhitched",
+    "subtitle": "The Trial of Christopher Hitchens",
+    "authors": [
+     "Richard Seymour"
+    ],
+    "publisher": "Verso Books",
+    "publishedDate": "2013-01-16",
+    "description": "Among the forgettable ranks of ex-Leftists, Christopher Hitchens stands out as someone determined to stand out. Rejecting the well-worn paths of hard-right evangelism and capitalist “realism,” he identified with nothing outside his own idiosyncrasies. A habitual mugwump who occasionally masqueraded as a “Marxist,” the role he adopted late in his career, as afree radical within the US establishment, had ample precedents from his earlier incarnation. It wasn’t the Damascene conversion he described. His long-standing admiration for America, his fascination with the Right as the truly “revolutionary” force, his closet Thatcherism, his theophobia and disdain for the actually existing Left had all been present in differentways throughout his political life. Post–9/11, they merely found a new articulation. For all that, the Hitchensian idiolect was a highly unique, marketable formula. He is a recognizable historical type—the apostate leftist—and as such presents a rewarding, entertaining and an enlightening case study.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781844679911"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1844679918"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.1.0.preview.2",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.pl/books/content?id=DTDdjEgV3bgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.pl/books/content?id=DTDdjEgV3bgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.pl/books?id=DTDdjEgV3bgC&printsec=frontcover&dq=hitchens&hl=&cd=38&source=gbs_api",
+    "infoLink": "http://books.google.pl/books?id=DTDdjEgV3bgC&dq=hitchens&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.pl/books/about/Unhitched.html?hl=&id=DTDdjEgV3bgC"
+   },
+   "saleInfo": {
+    "country": "PL",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "PL",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.pl/books/download/Unhitched-sample-epub.acsm?id=DTDdjEgV3bgC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.pl/books/reader?id=DTDdjEgV3bgC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Among the forgettable ranks of ex-Leftists, Christopher Hitchens stands out as someone determined to stand out."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "a1P4lRBAlJYC",
+   "etag": "y+LCGX8nS2g",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/a1P4lRBAlJYC",
+   "volumeInfo": {
+    "title": "Hitchens vs Blair : be it resolved religion is a force for good in the world : the Munk debates",
+    "authors": [
+     "Christopher Hitchens"
+    ],
+    "publisher": "Random House",
+    "publishedDate": "2011-08-01",
+    "description": "On November 26, 2010, intellectual juggernaut and staunch atheist Christopher Hitchens went head-to-head with former British Prime Minister Tony Blair, one of the Western worlds most openly devout political leaders, on the highly charged topic of religion. Few world leaders have had a greater hand in shaping current events than Blair; few writers have been more outspoken and polarizing than Hitchens. Hitchens and Blair squared off on the contentious questions that continue to dog the topic of religion in our globalized world: How does faith influence our actions? What is the role of people of faith in the public sphere? Is religious doctrine rigid, or should we allow for flexibility in our interpretations? For the first time ever, this exclusive debate, which played out to a sold-out audience, is now available in print, along with candid interviews with Hitchens and Blair. Sharp, provocative, and thoroughly engrossing, Hitchens vs. Blair is an electrifying intellectual sparring match on the oldest question: Is religion a force for good in the world?",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780552777902"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0552777900"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 96,
+    "printType": "BOOK",
+    "categories": [
+     "Religion"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.9.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.pl/books/content?id=a1P4lRBAlJYC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.pl/books/content?id=a1P4lRBAlJYC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.pl/books?id=a1P4lRBAlJYC&dq=hitchens&hl=&cd=39&source=gbs_api",
+    "infoLink": "http://books.google.pl/books?id=a1P4lRBAlJYC&dq=hitchens&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.pl/books/about/Hitchens_vs_Blair_be_it_resolved_religio.html?hl=&id=a1P4lRBAlJYC"
+   },
+   "saleInfo": {
+    "country": "PL",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "PL",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://books.google.pl/books/reader?id=a1P4lRBAlJYC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "On November 26, 2010, intellectual juggernaut and staunch atheist Christopher Hitchens went head-to-head with former British Prime Minister Tony Blair, one of the Western worlds most openly devout political leaders, on the highly charged ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ear3NAAACAAJ",
+   "etag": "nDoQ1A9XBQ8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ear3NAAACAAJ",
+   "volumeInfo": {
+    "title": "Regime Change",
+    "authors": [
+     "Christopher Hitchens"
+    ],
+    "publishedDate": "2003",
+    "description": "'Nobody is entitled to view this battle as a spectator . . .' Regime Changeis the one essential book for anyone who wants to understand the greatest global crisis of the past decade, one that has bitterly divided public opinion across Britain - and around the world. Watching events unfold in the US and writing directly from Iraq, Christopher Hitchens cuts through the spin and slogans shaping popular through and tackles the fundamental questions. What was the true nature of Saddam's regime? Was this really Bush's war for oil? Was Blair principled or a poodle? Will our military action spark more terrorist attacks? Hitchens reports on the current crisis while at the same time emphasizing the historical perspective - that this war began when Saddam Hussein invaded Kuwait in 1990, only a few months after the fall of the Berlin wall. In this polemical, incendiary account, Hitchens offers hindsight on the rights and wrongs of an epochal war.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0141015675"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780141015675"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 104,
+    "printType": "BOOK",
+    "categories": [
+     "Iraq"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.pl/books/content?id=ear3NAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.pl/books/content?id=ear3NAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.pl/books?id=ear3NAAACAAJ&dq=hitchens&hl=&cd=40&source=gbs_api",
+    "infoLink": "http://books.google.pl/books?id=ear3NAAACAAJ&dq=hitchens&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.pl/books/about/Regime_Change.html?hl=&id=ear3NAAACAAJ"
+   },
+   "saleInfo": {
+    "country": "PL",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "PL",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.pl/books/reader?id=ear3NAAACAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": ". .&#39; Regime Changeis the one essential book for anyone who wants to understand the greatest global crisis of the past decade, one that has bitterly divided public opinion across Britain - and around the world."
+   }
+  }
+ ]
+}

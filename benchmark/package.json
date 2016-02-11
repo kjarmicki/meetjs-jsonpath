@@ -1,0 +1,15 @@
+{
+  "name": "benchmark",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node benchmark.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jsonpath-object-transform": "1.0.4",
+    "microtime": "2.0.0"
+  }
+}
