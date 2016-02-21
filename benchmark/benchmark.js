@@ -5,18 +5,6 @@ const transform = require('jsonpath-object-transform'),
     assert = require('assert'),
     microtime = require('microtime');
 
-function jsonPathBooksInfo(volumes) {
-    const template = {
-        items: ['$..items', {
-            authors: '$..authors',
-            title: '$..title',
-            isbn13: '$..industryIdentifiers..[?(@.type === "ISBN_13")].identifier'
-        }]
-    };
-
-    return transform(volumes, template).items;
-}
-
 function nativeJsBooksInfo(volumes) {
     return volumes.items.map(volume => {
         let info = {
@@ -27,18 +15,30 @@ function nativeJsBooksInfo(volumes) {
 
         try {
             info.authors = volume.volumeInfo.authors;
-        } catch(e) {}
+        } catch (e) {}
         try {
             info.title = volume.volumeInfo.title;
-        } catch(e) {}
+        } catch (e) {}
         try {
             info.isbn13 = volume.volumeInfo.industryIdentifiers
                 .filter(id => id.type === 'ISBN_13')[0]
                 .identifier;
-        } catch(e) {}
+        } catch (e) {}
 
         return info;
     });
+}
+
+function jsonPathBooksInfo(volumes) {
+    const template = {
+        items: ['$..items', {
+            authors: '$..authors',
+            title: '$..title',
+            isbn13: '$..industryIdentifiers..[?(@.type === "ISBN_13")].identifier'
+        }]
+    };
+
+    return transform(volumes, template).items;
 }
 
 // to make sure benchmark methods are fair
